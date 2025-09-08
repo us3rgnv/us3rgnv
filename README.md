@@ -57,6 +57,7 @@ Here are some of the practice labs I’ve worked on:
 - GitHub: [github.com/us3rgnv](https://github.com/us3rgnv)
 - LinkedIn: [linkedin.com/in/fatimagurbanova](https://www.linkedin.com/in/fatima-gurbanova-650a11350)
 - Email: [thispcqnv@gmail.com](mailto:thispcqnv@gmail.com)
+- TryHackMe [tryhackme.com/p/us3rgnv](https://tryhackme.com/p/us3rgnv)
 
 ---
 
